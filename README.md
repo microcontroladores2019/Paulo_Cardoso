@@ -20,3 +20,7 @@ PA0 -> Input(BUTTON USER)
 # Diagrama de Blocos
 
 <img src="blocos.PNG" width="500" height="400">
+
+# Fluxograma
+
+<img src="Fluxograma.PNG" width="500" height="400">
