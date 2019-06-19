@@ -1,4 +1,4 @@
-# Paulo_Cardoso
+# Paulo Trabalho VF
 
 # Motivação
 
@@ -17,3 +17,6 @@ PD12,PD13,PD14,PD15 -> Output(LEDS)
 
 PA0 -> Input(BUTTON USER)
 
+# Diagrama de Blocos
+
+<img src="blocos.PNG" width="500" height="400">
