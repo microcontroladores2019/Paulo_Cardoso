@@ -19,7 +19,7 @@ AudioRecStart: Inicializa a comunicação I2S para o microfone
 
 AudioRecStop: Desliga a comunicação I2S, na finalização 
 
-ButtonReader: função da tarefa de leitura do botão
+Waiting: função da tarefa de leitura do botão
 
 PDM_Filter: função da tarefa de conversão PDM para PCM
 
