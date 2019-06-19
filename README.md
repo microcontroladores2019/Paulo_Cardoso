@@ -19,8 +19,8 @@ PA0 -> Input(BUTTON USER)
 
 # Diagrama de Blocos
 
-<div style="text-align:center"><img src="blocos.PNG" width="500" height="400">
+<img align="center" src="blocos.PNG" width="500" height="400">
 
 # Fluxograma
 
-<div style="text-align:center"><img src="Fluxograma.PNG" width="500" height="400">
+<img align="center" src="Fluxograma.PNG" width="500" height="400">
