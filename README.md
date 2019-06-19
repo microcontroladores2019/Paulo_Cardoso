@@ -5,7 +5,7 @@
 Instrumentos de corda desafinam devido a vários fatores no dia a dia, criando a necessidade de afina-los de novo. Além disso em alguns casos é necessário alterar a afinação.
 Isso é possível através da audição com um som de referência, porém requer prática. Com isso a proposta é, usando o microfone digital MP45DT02 e a blibioteca de matemática CMIS, fazer um afinador digital através da fft do sinal.
 
-#Documentação das Funções
+# Documentação das Funções
 
 MP45DT02_config: configuração do microfone da comunicação I2S
 
